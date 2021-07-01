@@ -1,2 +1,2 @@
-# Primeiro Repositorio
- Primeiro repositório Guanabara
+# Primeiro Repositório
+ Primeiro repositório do curso Git e GitHub.
